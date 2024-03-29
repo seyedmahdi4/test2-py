@@ -122,5 +122,5 @@ def run_loop():
     loop_.start()
 
 
-run_loop()
+#run_loop()
 app.run("0.0.0.0")
